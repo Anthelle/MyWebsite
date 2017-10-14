@@ -42,7 +42,6 @@ html{
 	font-weight: bold;
 }
 
-
 #HomebarRow{
 	align-content: center;
 	vertical-align: middle;
@@ -96,10 +95,11 @@ html{
 
 #sectionHeader{
 	height: auto;
+	margin: auto;
 	text-align: center;
 	vertical-align: middle;
 	border-style: solid;
-	width: 100%;
+	width:50%;
 }
 
 .sectionText{
@@ -128,10 +128,8 @@ html{
 
 #AboutMe{
 	height: 80vh;
-	width: auto;
-	background-color:#f7f7f7;
+	background-color:#ffffff;
 	border-style: solid;
-	vertical-align: middle;
 }
 
 /* Portfolio CSS */
@@ -151,13 +149,18 @@ html{
 /* Contact CSS */
 
 #Contact{
-	height: 25vh;
+	height: 50vh;
 	background-color:#ffffff;
 }
 
 /* Ending Credits CSS */
 
-#EndingCredits{
-	height: 5vh;
-	background-color:#ffffff;
+#CopyRight{
+	height: 15vh;
+	background-color:#f7f7f7;
+	text-align: center;
+}
+
+#endingCredits{
+
 }
