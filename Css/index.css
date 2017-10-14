@@ -38,12 +38,10 @@ html{
 	font-size: 20px;
 	font-family: 'Courgette', cursive;	
 	color: #6d6d6d;
-}
-
-
-#introEmphasis{
+	text-align: center;
 	font-weight: bold;
 }
+
 
 #HomebarRow{
 	align-content: center;
@@ -92,13 +90,6 @@ html{
 }
 
 /* NavigationBar CSS*/
-.CustomNavPosition{
-	color: red;
-}
-
-.CustomNavLink{
-	color: red;
-}
 
 
 /* Grouping CSS */
