@@ -1,0 +1,172 @@
+body{
+	background-color: #ffffff;
+	/*background-color: #eaecef;*/
+}
+
+html{
+	min-height:100%;
+	position: relative;
+}
+
+/* HomePage CSS*/
+
+#Home_pagewrap{
+	background-color: red;
+	height: 100vh;
+	width: auto;
+	vertical-align: middle;
+	
+}
+
+#IntroNameContainer{
+	height: auto;
+	position: relative;
+	text-align: center;
+	padding: 0px;
+	
+}
+
+.IntroName{
+	font-size: 100px;
+	font-family: 'Poiret One', cursive;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.introStatement{
+	font-size: 20px;
+	font-family: 'Courgette', cursive;	
+	color: #6d6d6d;
+}
+
+
+#introEmphasis{
+	font-weight: bold;
+}
+
+#HomebarRow{
+	align-content: center;
+	vertical-align: middle;
+	padding-left: 5px;
+
+}
+
+.HomeCol{
+	min-height: 35vh;
+	width: 24%;
+	margin: 5px;
+	line-height: 35vh;
+}
+
+.SubjectNameContainer{
+	width: auto;
+	height: auto;
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
+}
+ 
+#subjectText{
+	font-family: 'Baloo Bhaijaan', cursive;
+	color: #f7f7f7;
+	font-size: 40px;
+}
+
+
+#First_Col{
+	background-color: #155765;
+}
+
+#Second_Col{
+	background-color: #57652A;
+}
+
+#Third_Col{
+	background-color: #AB9353;
+}
+
+#Fourth_Col{
+	background-color: #4D2C3D;
+
+}
+
+/* NavigationBar CSS*/
+.CustomNavPosition{
+	color: red;
+}
+
+.CustomNavLink{
+	color: red;
+}
+
+
+/* Grouping CSS */
+
+#sectionHeader{
+	height: auto;
+	text-align: center;
+	vertical-align: middle;
+	border-style: solid;
+	width: 100%;
+}
+
+.sectionText{
+	font-size: 40px;
+	font-family: 'Khula', sans-serif;
+	border-style: dashed;
+}
+
+#TextCol_One{
+	color: #155765;
+}
+
+#TextCol_Two{
+	color: #57652A;
+}
+
+#TextCol_Three{
+	color: #AB9353;
+}
+
+#TextCol_Four{
+	color: #4D2C3D;
+
+}
+/* AboutMe CSS */
+
+#AboutMe{
+	height: 80vh;
+	width: auto;
+	background-color:#f7f7f7;
+	border-style: solid;
+	vertical-align: middle;
+}
+
+/* Portfolio CSS */
+
+#Portfolio{
+	height: 50vh;
+	background-color: #ffffff;
+}
+
+/* Skills CSS */
+
+#Skills{
+	height: 75vh;
+	background-color:#f7f7f7;
+}
+
+/* Contact CSS */
+
+#Contact{
+	height: 25vh;
+	background-color:#ffffff;
+}
+
+/* Ending Credits CSS */
+
+#EndingCredits{
+	height: 5vh;
+	background-color:#ffffff;
+}
