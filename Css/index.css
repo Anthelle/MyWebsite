@@ -50,10 +50,10 @@ html{
 }
 
 .HomeCol{
-	min-height: 35vh;
+	height: 250px;
 	width: 24%;
 	margin: 5px;
-	line-height: 35vh;
+
 }
 
 .SubjectNameContainer{
@@ -62,6 +62,8 @@ html{
 	position: relative;
 	text-align: center;
 	vertical-align: middle;
+	margin-top: 30%;
+
 }
  
 #subjectText{
