@@ -46,15 +46,16 @@ html{
 #HomebarRow{
 	align-content: center;
 	vertical-align: middle;
-	padding-left: 5px;
 	padding-top:25px;
+	
 
 }
 
 .HomeCol{
 	height: 250px;
-	width: 24%;
-	margin: 5px;
+	border-color: #ffffff;
+	border-style: solid;
+
 }
 
 .SubjectNameContainer{
