@@ -1,14 +1,17 @@
 .navbar{
-	border-style: solid;
-	height: 50px;
+	overflow: hidden;
+	background-color: #f7f7f7;
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
+
 
 #sectionHeader{
 	height: auto;
-	margin: auto;
 	text-align: center;
 	vertical-align: middle;
-	width:50%;
+	
 }
 
 .sectionText{
@@ -35,32 +38,33 @@
 
 #AboutMe{
 	background-color: #ffffff;
-	height: 75vh;
+	height: 100vh;
+	margin-top: 50px;
 }
 
 #Portfolio{
 	background-color: #ffffff;
-	height: 75vh;
+	height: 100vh;
+	margin-top: 50px;
 }
 
 #Skills{
 	background-color: #ffffff;
-	height: 75vh;
-}
-
-#Contact{
-	background-color: #ffffff;
-	height: 75vh;
+	height: 100vh;
+	margin-top: 50px;
 }
 
 
 #footer{
-	background-color: #f7f7f7;
-	height: 150px;
+	background-color: #4D2C3D;
+	text-align: center;
+	padding: 40px 0px;
 }
 
 #endingCredits{
 	text-align: center;
+	color: #ffffff;
+	
 }
 
 
