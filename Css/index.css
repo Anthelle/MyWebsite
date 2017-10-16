@@ -23,6 +23,7 @@ html{
 	position: relative;
 	text-align: center;
 	padding: 0px;
+
 	
 }
 
@@ -46,6 +47,7 @@ html{
 	align-content: center;
 	vertical-align: middle;
 	padding-left: 5px;
+	padding-top:25px;
 
 }
 
@@ -53,7 +55,6 @@ html{
 	height: 250px;
 	width: 24%;
 	margin: 5px;
-
 }
 
 .SubjectNameContainer{
@@ -87,82 +88,5 @@ html{
 
 #Fourth_Col{
 	background-color: #4D2C3D;
-
-}
-
-/* NavigationBar CSS*/
-
-
-/* Grouping CSS */
-
-#sectionHeader{
-	height: auto;
-	margin: auto;
-	text-align: center;
-	vertical-align: middle;
-	border-style: solid;
-	width:50%;
-}
-
-.sectionText{
-	font-size: 40px;
-	font-family: 'Khula', sans-serif;
-	border-style: dashed;
-}
-
-#TextCol_One{
-	color: #155765;
-}
-
-#TextCol_Two{
-	color: #57652A;
-}
-
-#TextCol_Three{
-	color: #AB9353;
-}
-
-#TextCol_Four{
-	color: #4D2C3D;
-
-}
-/* AboutMe CSS */
-
-#AboutMe{
-	height: 80vh;
-	background-color:#ffffff;
-	border-style: solid;
-}
-
-/* Portfolio CSS */
-
-#Portfolio{
-	height: 50vh;
-	background-color: #ffffff;
-}
-
-/* Skills CSS */
-
-#Skills{
-	height: 75vh;
-	background-color:#f7f7f7;
-}
-
-/* Contact CSS */
-
-#Contact{
-	height: 50vh;
-	background-color:#ffffff;
-}
-
-/* Ending Credits CSS */
-
-#CopyRight{
-	height: 15vh;
-	background-color:#f7f7f7;
-	text-align: center;
-}
-
-#endingCredits{
 
 }

@@ -1,0 +1,66 @@
+.navbar{
+	border-style: solid;
+	height: 50px;
+}
+
+#sectionHeader{
+	height: auto;
+	margin: auto;
+	text-align: center;
+	vertical-align: middle;
+	width:50%;
+}
+
+.sectionText{
+	font-size: 40px;
+	font-family: 'Khula', sans-serif;
+}
+
+#TextCol_One{
+	color: #155765;
+}
+
+#TextCol_Two{
+	color: #57652A;
+}
+
+#TextCol_Three{
+	color: #AB9353;
+}
+
+#TextCol_Four{
+	color: #4D2C3D;
+
+}
+
+#AboutMe{
+	background-color: #ffffff;
+	height: 75vh;
+}
+
+#Portfolio{
+	background-color: #ffffff;
+	height: 75vh;
+}
+
+#Skills{
+	background-color: #ffffff;
+	height: 75vh;
+}
+
+#Contact{
+	background-color: #ffffff;
+	height: 75vh;
+}
+
+
+#footer{
+	background-color: #f7f7f7;
+	height: 150px;
+}
+
+#endingCredits{
+	text-align: center;
+}
+
+
