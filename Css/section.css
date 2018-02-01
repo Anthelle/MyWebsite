@@ -1,6 +1,7 @@
 .navbar{
-	border-style: solid;
+	
 	height: 50px;
+	background-color: #f7f7f7;
 }
 
 #sectionHeader{
@@ -55,12 +56,14 @@
 
 
 #footer{
-	background-color: #f7f7f7;
+	background-color: #4D2C3D;
 	height: 150px;
 }
 
 #endingCredits{
 	text-align: center;
+	color: #ffffff;
+
 }
 
 
