@@ -12,9 +12,10 @@ html{
 
 #Home_pagewrap{
 	background-color: #f7f7f7;
-	height: 90vh;
+	height: 100vh;
 	width: auto;
 	vertical-align: middle;
+	
 }
 
 #IntroNameContainer{
@@ -27,7 +28,7 @@ html{
 }
 
 .IntroName{
-	font-size: 600%;
+	font-size: 100px;
 	font-family: 'Poiret One', cursive;
 	padding: 0px;
 	margin: 0px;
@@ -46,6 +47,8 @@ html{
 	align-content: center;
 	vertical-align: middle;
 	padding-top:25px;
+	
+
 }
 
 .HomeCol{
@@ -65,7 +68,7 @@ html{
 
 }
  
-.subjectText{
+#subjectText{
 	font-family: 'Baloo Bhaijaan', cursive;
 	color: #f7f7f7;
 	font-size: 40px;
@@ -87,49 +90,4 @@ html{
 #Fourth_Col{
 	background-color: #4D2C3D;
 
-}
-
-#endingCredits{
-	background-color: #4D2C3D;
-}
-
-#HomeScreen{
-	background-color: #ffffff;
-}
-
-#Home_AboutMe{
-	background-color: #f7f7f7;
-	height: 90vh;
-	width: auto;
-	vertical-align: middle;
-	border-style: solid;
-}
-
-#Home_Portfolio{
-	background-color: #f7f7f7;
-	height: 90vh;
-	width: auto;
-	vertical-align: middle;
-	border-style: solid;
-}
-
-#Home_Skills{
-	background-color: #f7f7f7;
-	height: 90vh;
-	width: auto;
-	vertical-align: middle;
-	border-style: solid;
-}
-
-#Home_Contact{
-	background-color: #f7f7f7;
-	height: 40vh;
-	width: auto;
-	vertical-align: middle;
-	border-style: solid;
-}
-
-.identificationBar{
-	border-style: solid;
-	background-color: #f7f7f7;
 }
